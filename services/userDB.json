@@ -1,0 +1,72 @@
+[
+   {
+      "id": "1",
+      "name": "Jonh",
+      "age": "30",
+      "isMan": "true",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "Jonh",
+      "age": "15",
+      "isMan": "true",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "Jonh",
+      "age": "20",
+      "isMan": "true",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "Jonh",
+      "age": "23",
+      "isMan": "true",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "Jonh",
+      "age": "26",
+      "isMan": "true",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "Jonh",
+      "age": "30",
+      "isMan": "true",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "girl",
+      "age": "20",
+      "isMan": "false",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "girl",
+      "age": "23",
+      "isMan": "false",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "girl",
+      "age": "30",
+      "isMan": "false",
+      "country": "Belarus"
+   },
+   {
+      "id": "1",
+      "name": "girl",
+      "age": "10",
+      "isMan": "false",
+      "country": "Belarus"
+   }
+]
